@@ -1,25 +1,14 @@
-# Software yang dibutuhkan
--Xampp
--VS Code
--Chrome Browser
+<h1 align="center">Tes Arkademy Batch 10</h1>
 
-#Cara menjalankan aplikasi
+### Software yang dibutuhkan
 
--Cara Menjalankan XAMPP di Linux Mint Cinnamon
-Melalui command line
-Buka termianal (bisa dengan cara tekan Ctrl + Alt + T).
-Ketikkan perintah berikut
-MS DOS
-sudo /opt/lampp/lampp start
-1
-sudo /opt/lampp/lampp start
+- Xampp
+- Text Editor
+- Web Browser
 
--Cara menjalankan VS Code
-Setelah install,
-buka aplikasi dengan klik icon.
+### Cara menjalankan aplikasi
 
--Cara menjalankan Chrome
-Setelah install,
-buka aplikasi dengan klik icon.
-
-#Capture soal no 6 saya upload di directory arkademy di project saya
+- Jalankan XAMPP. Jika menggunakan Windows bisa langsung double click pada aplikasinya. 
+Sedangkan jika di Linux, buka terminal (bisa dengan cara tekan Ctrl + Alt + T). Lalu ketikkan perintah berikut `sudo /opt/lampp/lampp start`
+- Buka text editor dan jalankan file di browser
+- Capture soal no 6 ada di directory arkademy
